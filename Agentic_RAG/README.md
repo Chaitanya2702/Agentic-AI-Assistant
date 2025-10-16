@@ -41,7 +41,6 @@ The assistant acts as a **dynamic information hub**, powered by **LLM reasoning,
 - 💬 **Multilingual Support** — Handles user input and output in multiple languages via translators.  
 - 🧾 **Interactive Interface** — Streamlit UI for seamless user interactions.  
 
----
+---  
 
-## 🧱 Project Architecture  
 
