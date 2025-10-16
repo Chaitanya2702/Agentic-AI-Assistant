@@ -43,5 +43,3 @@ The assistant acts as a **dynamic information hub**, powered by **LLM reasoning,
 
 ---
 
-## 🧱 Project Architecture  
-
