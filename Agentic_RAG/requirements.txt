@@ -1,0 +1,14 @@
+beautifulsoup4
+deep-translator
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+openai
+Pillow
+pinecone-client
+python-dotenv
+requests
+streamlit
+groq
+langchain-groq
